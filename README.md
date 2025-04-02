@@ -46,18 +46,10 @@ A test script is also included to validate authentication and API responses.
 GET /fetch/:sourceType
 ```
 - `sourceType` can be:
-  - `prime`
-  - `fibonacci`
-  - `even`
-  - `random`
-- **Response:**
-  ```json
-  {
-    "memoryBeforeUpdate": [...],
-    "memoryAfterUpdate": [...],
-    "newlyFetchedNumbers": [...],
-    "averageValue": 10.5
-  }
+  - `prime - p` 
+  - `fibonacci - f`
+  - `even - e`
+  - `random - r`
   ```
 
 ---
