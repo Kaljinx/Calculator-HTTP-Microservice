@@ -19,7 +19,7 @@ A test script is also included to validate authentication and API responses.
 ### Setup
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone <https://github.com/Kaljinx/22051107.git>
    cd <repo-folder>
    ```
 2. **Install dependencies:**
