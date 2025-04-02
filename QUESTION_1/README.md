@@ -60,6 +60,8 @@ The test script verifies authentication and number API responses.
 2. **Expected Output:**
    - Authentication token printed
    - Responses from each number API displayed in the terminal
+   - ![Browser Output](./Images/testimage1.jpg)
+   - ![Terminal test](./Images/testimage2.jpg)
 
 ---
 
