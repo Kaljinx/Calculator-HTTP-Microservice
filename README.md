@@ -38,6 +38,8 @@ A test script is also included to validate authentication and API responses.
 ### Usage
 ```sh
 http://localhost:9876/numbers/sourceType
+http://localhost:9876/numbers/p
+http://localhost:9876/numbers/f
 ```
 - `sourceType` can be:
   - `prime - p` 
