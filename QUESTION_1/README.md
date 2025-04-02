@@ -60,7 +60,7 @@ The test script verifies authentication and number API responses.
 2. **Expected Output:**
    - Authentication token printed
    - Responses from each number API displayed in the terminal
-   - <img src="./Images/testimage1.jpg" alt="Browser Output" width="300" height="200">
+   - <img src="./Images/testimage1.jpg" alt="Browser Output" width="459" height="300">
    - ![Terminal test](./Images/testimage2.jpg)
 
 ---
