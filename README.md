@@ -32,18 +32,16 @@ A test script is also included to validate authentication and API responses.
 ## Running the Server
 1. **Start the server:**
    ```sh
-   node server.js
+   node average.js
    ```
 2. **Server will run at:**
    ```
    http://localhost:9876
    ```
 
-### API Endpoints
-#### Fetch Numbers
-**Endpoint:**
+### Usage
 ```sh
-GET /fetch/:sourceType
+http://localhost:9876/numbers/sourceType
 ```
 - `sourceType` can be:
   - `prime - p` 
