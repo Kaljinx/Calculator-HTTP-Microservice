@@ -20,11 +20,7 @@ A test script is also included to validate authentication and API responses.
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Kaljinx/22051107.git
-   cd <repo-folder>
-   ```
-2. **Install dependencies:**
-   ```sh
-   npm install
+   cd 22051107
    ```
 
 ---
