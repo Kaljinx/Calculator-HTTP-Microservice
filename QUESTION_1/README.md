@@ -1,4 +1,3 @@
-# QUESTION 1 - Backend
 # Project: Number Fetching Average Calculator
 
 ## Overview
